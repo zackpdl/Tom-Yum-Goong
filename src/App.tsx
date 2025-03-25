@@ -20,10 +20,6 @@ const features = [
 // Static image gallery
 const images = [
   "https://lh3.googleusercontent.com/p/AF1QipO3QXhoA36wnwS7PfcXn2758TYOp9wJxDUzf6UV=s1360-w1360-h1020",
-  "https://lh3.googleusercontent.com/p/AF1QipOeFXEITE5WpWs8ANlL1t3qCahb-fumYY-i9H77=s1360-w1360-h1020",
-  "https://lh3.googleusercontent.com/p/AF1QipPFXRBc7-kUxz0FnnsuYKkXVrWWfuLQ4p_FDxA6=s1360-w1360-h1020",
-  "https://lh3.googleusercontent.com/p/AF1QipMQQQDhPDVe0bAVLGPLj4m_3c-8QUX_-kDGn-4p=s1360-w1360-h1020",
-  "https://lh3.googleusercontent.com/p/AF1QipOBGvhWXQJvPsqQWxKYWI1eeKCkJGEwZXYJ1r9K=s1360-w1360-h1020"
 ];
 
 function App() {
